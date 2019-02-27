@@ -1,4 +1,4 @@
-# checklist-basic-production-deployment
+# Basic Checklist Production Deployment
 
 This repository contains information on checklist production deployment that any team/organisation should consider before push their system into production.
 
